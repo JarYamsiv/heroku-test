@@ -1,0 +1,1 @@
+release : ./main.py
